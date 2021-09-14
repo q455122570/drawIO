@@ -1,1 +1,24 @@
-<mxfile host="app.diagrams.net" modified="2021-09-14T08:10:52.352Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="04CeMtUPwh-visVUyH5a" version="15.2.5" type="github"><diagram id="ZGr4nzdULrTlAEbczkuR" name="Page-1">tZVNc5swEIZ/DcfOGGQb51gTN62Ttmndmc70JsMCSgTLiMUf/fWVQHwZJ00PvXi0j7TS6t0X2WFBdrpTvEg/YwTS8WbRyWG3juf5K0//GnBuwJwtG5AoETXI7cFO/AYLZ5ZWIoJytJAQJYliDEPMcwhpxLhSeBwvi1GOTy14AhOwC7mc0p8iorShK8/v+UcQSdqe7C5vmpmMt4vtTcqUR3gcILZxWKAQqRllpwCk0a7Vpcn78MJsV5iCnN6SkH/7tZX77cE9b3fh/eL+R/zl0zu7y4HLyl7YYe+/7p+MlE3VdG6l0BcozLDK5IOIQYpcR+sClMiAQOkZafFjz9bHVBDsCh6a1KP2iGYpZVJHrh7qvhHXKaqLpeRFKfb1qTNNFISVKsUBvkPZ2MNQrMicFHRtNzAWUgYoUdUFsziGZRhqXpLCZxjMRP7NflZvjlUeQWQP71pkgkTysrQbl89AYWqDqfCtiqAITgNkG3EHqNVQZ72knZ1bU9ivwrfhsbeYO7MsHdiLtXnc2jrptu47rwe2+f9gBG9qhMv+D7pWoMipLmGxdha3FzZARSkmmHM5NMJUtlcd+WYt54uRlKtrUk6V9P6XkGyiG0T6RbFhL82mpwMX1tbu1jwgFlbxJyA62+eRV4Tjr+hFS5ZYqRD+3ndT46tiK5Cc9Ec4fmCviGdTH41D+iYxf2x4d3mhP3GVANmsixZ0ZVzrig77N7RZ3v8Rsc0f</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-09-14T08:11:26.536Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="76E1ZA4lnwO_g7bc1Jtl" version="15.2.5" type="github">
+  <diagram id="ZGr4nzdULrTlAEbczkuR" name="Page-1">
+    <mxGraphModel dx="782" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="nQZJlbJv1yJScK5KTfNI-1" value=":Object" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=1;shadow=1;glass=0;sketch=0;" parent="1" vertex="1">
+          <mxGeometry x="140" y="70" width="100" height="340" as="geometry" />
+        </mxCell>
+        <mxCell id="nQZJlbJv1yJScK5KTfNI-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="nQZJlbJv1yJScK5KTfNI-1" vertex="1">
+          <mxGeometry x="45" y="80" width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nQZJlbJv1yJScK5KTfNI-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="nQZJlbJv1yJScK5KTfNI-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NWv6kDnUhxYA3lw0kbhT-1" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;/i&gt;&lt;br/&gt;&lt;b&gt;Interface&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ field1: Type&lt;br/&gt;+ field2: Type&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ method1(Type): Type&lt;br/&gt;+ method2(Type, Type): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=1;shadow=1;glass=0;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="190" width="190" height="140" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
